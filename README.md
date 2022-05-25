@@ -1,4 +1,4 @@
- ## Olá, eu sou o igaonamikaze
+ ## Eai pessoal! Sejam bem vindos
 
 - 🔭 Hoje estou trabalhando com front-end
 - 🌱 Estudando Python, Typescript e Dart ...
